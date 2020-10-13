@@ -85,7 +85,7 @@
         "source": "git@github.com:sifive/example-itim.git"
     },
     {
-        "commit": "79d0df54e1a3b7fa53dd1b855717de3d9fa7a1d9",
+        "commit": "93343b57e82660b423f005b8acac81f751b3570b",
         "name": "example-pmp",
         "source": "git@github.com:sifive/example-pmp.git"
     },
@@ -105,12 +105,12 @@
         "source": "git@github.com:sifive/example-watchdog.git"
     },
     {
-        "commit": "00f22ac352fe540e7061fdb01a6ecfee88afc2c2",
+        "commit": "0ab6ab184ae4b38d3cbabc8bec730f25a0c49b28",
         "name": "example-user-mode",
         "source": "git@github.com:sifive/example-user-mode.git"
     },
     {
-        "commit": "dde4f8537d4cf26a2ed4b6667829cbab7bcc05b9",
+        "commit": "ce0216ff5eabd42841ea5017f9c02892155db09e",
         "name": "example-user-syscall",
         "source": "git@github.com:sifive/example-user-syscall.git"
     },
