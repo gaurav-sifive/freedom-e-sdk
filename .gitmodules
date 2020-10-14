@@ -3,7 +3,7 @@
 	url = https://github.com/sifive/example-hello.git
 [submodule "freedom-metal"]
 	path = freedom-metal
-	url = https://github.com/sifive/freedom-metal.git
+	url = https://github.com/gaurav-sifive/freedom-metal.git
 [submodule "scripts/elf2hex"]
 	path = scripts/elf2hex
 	url = https://github.com/sifive/elf2hex.git
@@ -57,7 +57,7 @@
 	url = https://github.com/sifive/benchmark-coremark.git
 [submodule "freedom-devicetree-tools"]
 	path = freedom-devicetree-tools
-	url = https://github.com/sifive/freedom-devicetree-tools.git
+	url = https://github.com/gaurav-sifive/freedom-devicetree-tools.git
 [submodule "software/test-coreip"]
 	path = software/test-coreip
 	url = https://github.com/sifive/test-coreip.git
