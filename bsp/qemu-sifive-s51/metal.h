@@ -38,6 +38,8 @@
 #ifndef MACROS_ELSE_METAL_H
 #define MACROS_ELSE_METAL_H
 
+#define MY_MEM_DRIVER_INIT_VAL 170
+
 #define __METAL_CLINT_2000000_INTERRUPTS 2
 
 #define METAL_MAX_CLINT_INTERRUPTS 2
@@ -82,6 +84,7 @@
 
 #include <metal/drivers/fixed-clock.h>
 #include <metal/memory.h>
+#include <metal/drivers/mydriver_mem0.h>
 #include <metal/drivers/riscv_clint0.h>
 #include <metal/drivers/riscv_cpu.h>
 #include <metal/drivers/riscv_plic0.h>

@@ -207,5 +207,11 @@
                         gpios = <&gpio0 21>;
                         linux,default-trigger = "none";
                 };
+                mem-driver@80010000 {
+                        compatible = "mydriver,mem0";
+                        reg = <0x80010000 0x4000>;
+                        reg-names = "control";
+                        init-value = <0xAA>;
+                };
         };
 };
