@@ -213,5 +213,11 @@
                         reg-names = "control";
                         init-value = <0xAA>;
                 };
+                // nb2-timer@4F0002000 {
+                //         compatible = "sifive,nb2timer";
+                //         reg = <0x4F0002000 0x3000>;
+                //         reg-names = "control";
+                //         num-timers = <0x04>;
+                // };
         };
 };
