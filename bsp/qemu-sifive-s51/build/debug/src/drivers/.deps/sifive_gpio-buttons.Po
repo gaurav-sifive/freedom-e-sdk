@@ -1,5 +1,0 @@
-src/drivers/sifive_gpio-buttons.o: \
- /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/drivers/sifive_gpio-buttons.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

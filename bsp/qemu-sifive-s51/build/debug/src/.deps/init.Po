@@ -1,4 +1,0 @@
-src/init.o: /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/init.c \
- /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/init.h
-
-/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/init.h:

@@ -1,5 +1,0 @@
-src/drivers/fixed-factor-clock.o: \
- /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/drivers/fixed-factor-clock.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

@@ -1,5 +1,0 @@
-src/drivers/sifive_gpio-switches.o: \
- /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/drivers/sifive_gpio-switches.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

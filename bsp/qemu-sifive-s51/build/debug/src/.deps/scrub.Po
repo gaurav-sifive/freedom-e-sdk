@@ -1,1 +1,0 @@
-src/scrub.o: /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/scrub.S

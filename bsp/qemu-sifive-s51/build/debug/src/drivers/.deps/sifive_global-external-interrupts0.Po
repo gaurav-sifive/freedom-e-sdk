@@ -1,5 +1,0 @@
-src/drivers/sifive_global-external-interrupts0.o: \
- /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/drivers/sifive_global-external-interrupts0.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

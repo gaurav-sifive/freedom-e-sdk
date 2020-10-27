@@ -1,1 +1,0 @@
-src/trap.o: /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/trap.S
