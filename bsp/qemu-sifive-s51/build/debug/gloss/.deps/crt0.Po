@@ -1,0 +1,1 @@
+gloss/crt0.o: /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/gloss/crt0.S

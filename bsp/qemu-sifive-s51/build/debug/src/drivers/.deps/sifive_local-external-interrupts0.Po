@@ -1,0 +1,133 @@
+src/drivers/sifive_local-external-interrupts0.o: \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/drivers/sifive_local-external-interrupts0.c \
+ metal/machine/platform.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/compiler.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/riscv_cpu.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/cpu.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/interrupt.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stdint.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/stdint.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/machine/_default_types.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/sys/features.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/_newlib_version.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/sys/_intsup.h \
+ /mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/sys/_stdint.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/io.h metal/machine.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/fixed-clock.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/clock.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/memory.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/riscv_clint0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/riscv_plic0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/pmp.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/gpio.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/led.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_nb2timer.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_pwm0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/pwm.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_rtc0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/rtc.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_spi0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/spi.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_test0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/shutdown.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_uart0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/uart.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_wdog0.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/watchdog.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h
+
+metal/machine/platform.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/compiler.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/riscv_cpu.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/cpu.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/interrupt.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/lib/gcc/riscv64-unknown-elf/8.3.0/include/stdint.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/stdint.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/machine/_default_types.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/sys/features.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/_newlib_version.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/sys/_intsup.h:
+
+/mnt/f/ubuntu-ws/tools/riscv64-unknown-elf-gcc-8.3.0-2020.04.0/riscv64-unknown-elf/include/sys/_stdint.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/io.h:
+
+metal/machine.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/fixed-clock.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/clock.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/memory.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/riscv_clint0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/riscv_plic0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/pmp.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/gpio.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/led.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_nb2timer.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_pwm0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/pwm.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_rtc0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/rtc.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_spi0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/spi.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_test0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/shutdown.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_uart0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/uart.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_wdog0.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/watchdog.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:

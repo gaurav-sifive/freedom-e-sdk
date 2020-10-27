@@ -1,0 +1,2 @@
+src/drivers/sifive_nb2timer.o: \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/src/drivers/sifive_nb2timer.c

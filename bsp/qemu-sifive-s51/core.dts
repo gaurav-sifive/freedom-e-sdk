@@ -207,5 +207,11 @@
                         gpios = <&gpio0 21>;
                         linux,default-trigger = "none";
                 };
+                nb2-timer@4F000200{
+                        compatible = "sifive,nb2timer";
+                        reg = <0x4F000200 0x3000>;
+                        reg-names = "control";
+                        sifive,num-timers = <0x04>;
+                }; 
         };
 };

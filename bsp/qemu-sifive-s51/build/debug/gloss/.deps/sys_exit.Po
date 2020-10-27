@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/gloss/sys_exit.c \
+ /mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/shutdown.h
+
+/mnt/f/ubuntu-ws/freedom-e-sdk/freedom-metal/metal/shutdown.h:
